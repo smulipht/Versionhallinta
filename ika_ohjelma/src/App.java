@@ -6,5 +6,10 @@ public class App {
         {
             System.out.println("Olet alaikäinen");
         }
+
+        else
+        {
+            System.out.println("Olet aikuinen");
+        }
     }
 }
